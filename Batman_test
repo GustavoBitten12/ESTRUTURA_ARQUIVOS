@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Site do Batman</title>   
+</head>
+
+   
+   
+   
+   
+    <header id="navbar">
+        <h1>História do Batman</h1>
+       
+        <img src="batman.img.jfif" alt="Batman" />
+    </header>
+    <main>        
+        <div>
+            <h4>Bruce Wayne é um bilionário americano, magnata de negócios, filantropo e dono da corporação Wayne Enterprises. Sua história teve início após testemunhar o assassinato de seus pais ainda quando criança, o que o fez jurar vingança contra os criminosos e treinar todos os dias sozinho.
+                além de criar um personagem baseado em um morcego para combater o crime. Foi aí que surgiu Batman, o super-herói da cidade de Gotham.
+            Apesar de não ter superpoderes, Batman faz uso de seu intelecto, conhecimento em artes marciais, destreza física e habilidades de detetive. Mesmo tendo uma grande variedade de vilões como inimigos, incluindo o grande destaque, Coringa, Batman é ajudado por vários personagens incluindo o mordomo Alfred Pennyworth, o comissário de polícia Jim Gordon e outros aliados como Robin.
+            Bruce Wayne mostra-se à sociedade como um playboy irresponsável e superficial rico, porém ele também é conhecido por contribuir para a caridade através da Fundação Wayne para ajudar vítimas de crimes e impedir a entrada no crime de jovens. Essa personalidade foi criada para que as pessoas não desconfiassem de seu alter ego.
+            Enquanto Bruce Wayne é despreocupado e irresponsável, Batman é frio, determinado e implacável. Além do uniforme e da máscara, quando Batman, Wayne altera sua voz para ficar cada vez mais irreconhecível.</h4>
+            </div>
+        <section>
+            <h2>Seus principais aliados</h2>
+            <div>
+                <img src="Robin.jfif" alt="Robin" />
+                <h3>Robin era um jovem acrobata de circo cujos pais foram assassinados por um mafioso chamado Tony Zucco. Bruce Wayne, que testemunhou o assassinato, se identificou com a perda de Dick e o adotou. 
+                  Wayne então treinou Dick, transformando-o em Robin, seu parceiro na luta contra o crime em Gotham City.</h3>
+            </div>
+            <div>
+                <img src="batgirl.jfif" alt="Batgirl" />
+                <h4>Batgirl filha do Comissário James Gordon, ela assumiu o manto de Batgirl por iniciativa própria, inspirada pelo trabalho do Batman. Inicialmente, Batman demonstrava relutância em aceitá-la devido aos perigos envolvidos, mas gradualmente reconheceu suas habilidades e a acolheu como aliada.</h4>
+            </div>
+        </section>
+        <section>
+            <h2>Seus principais inimigos</h2>
+            <div>
+                <img src="Coringa.jfif" alt="Coringa" />
+                <h4>Criada por Alan Moore e Brian Bolland, a história acompanha um comediante fracassado que é contratado pela máfia para roubar a usina nuclear em que trabalhava. Usando um capuz vermelho, ele tenta completar o crime, mas é parado por Batman.
+                   A briga faz com que ele caia em um tonel químico.
+                   Essa queda muda para sempre a aparência e a personalidade do comediante. Embora parecida com a história de O Homem do Capuz Vermelho, A Piada Mortal dá mais camadas ao Coringa, contando sobre seu fracasso na comédia e sobre a morte da sua esposa.
+                   A Piada Mortal aposta na ideia de que um “dia ruim” pode mudar para sempre a vida de uma pessoa. Bruce Wayne perde os pais e se torna o Batman. Coringa se torna o que é depois do roubo mal-sucedido. Essa HQ, embora não seja a única origem do vilão.</h4>
+                </div>
+            <div>
+                <img src="mulher_gato.jfif" alt="Mulher Gato" />
+                <h4>A Mulher-Gato teve uma infância difícil, crescendo nas ruas de Gotham City,essa experiência a moldou, ensinando-a a sobreviver através da astúcia e da habilidade.Com seu traje de couro preto e fascínio por joias.
+                   Ela se destaca como uma criminosa formidável, cujas habilidades de roubo e agilidade felina a tornam uma adversária formidável.
+                   No centro de sua história, reside a complexa relação com Batman, um jogo de gato e rato onde a atração mútua se entrelaça com a rivalidade inerente aos lados opostos da lei. 
+                   Essa dinâmica, que oscila entre o amor e o ódio, revela uma conexão muito mais profunda do que um mero romance.</h4>
+            </div>
+            <div>
+                <img src="arlequina.jfif" alt="Arlequina" />
+                <h4>A Dra. Harleen Quinzel era psiquiatra no Asilo Arkham, onde conheceu o Coringa. Fascinada por sua mente caótica, ela se apaixonou por ele e o ajudou a escapar várias vezes.
+                   Adotando a persona de Arlequina, ela se tornou sua parceira no crime, com um visual icônico de bobo da corte e um amor obsessivo pelo Coringa.</h4>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
